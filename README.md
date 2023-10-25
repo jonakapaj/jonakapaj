@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonakapaj
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently proficient in React 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : Email: jonakapajj@gmail.com
 
