@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonakapaj
-- 👀 I’m interested in web development
-- 🌱 I’m currently proficient in React 
+- 👀 I’m interested in web development,python developement 
+- 🌱 I’m currently proficient with MERN stack and python  
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : Email: jonakapajj@gmail.com
 
