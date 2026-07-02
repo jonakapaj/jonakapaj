@@ -38,16 +38,7 @@ I'm a Software Engineer currently building data workflow tools at **Reveal Data*
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonakapaj&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonakapaj&layout=compact&hide_border=true" />
-</p>
-
----
 
 ### Let's Connect
 
